@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/01/14 20:12:00.223.bdsproj,C:\Users\Cricri\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\Cricri\Documents\Borland Studio Projects\passgen.bdsproj</Transaction>
+    <Transaction>2019/01/14 20:15:53.704.pas,C:\Users\Cricri\Documents\Borland Studio Projects\Unit1.pas=D:\Delphi projects\Password Generator\Unit1.pas</Transaction>
+    <Transaction>2019/01/14 20:15:53.704.dfm,C:\Users\Cricri\Documents\Borland Studio Projects\Unit1.dfm=D:\Delphi projects\Password Generator\Unit1.dfm</Transaction>
+    <Transaction>2019/01/14 20:15:55.831.bdsproj,C:\Users\Cricri\Documents\Borland Studio Projects\passgen.bdsproj=D:\Delphi projects\Password Generator\passgen.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
